@@ -1,0 +1,997 @@
+,responses_tc,responses_tm,responses_ti,base_response,real_response
+0,Red,Blue,The text does not provide information about the color of the gym shoes.,White,white
+1,AB-1234,SV-6260,The text does not provide a license number.,SV-6260,sv-6260
+2,Yes.,Yes.,The text does not provide information about a dog or a collar.,Yes.,no
+3,Red,Blue,The text does not provide information about the color of a lamp.,Blue,blue
+4,No.,No.,No.,No.,no
+5,Reading a book.,Looking outside.,The text does not provide information about a woman in the room.,Looking out the window.,cleaning
+6,Red,Yellow,The text does not provide information about the color of the birds' tails.,Yellow,yellow
+7,Three.,One.,The text does not provide information about paper towel rolls.,One.,1
+8,Soccer,Baseball,The text does not specify a sport being played.,Baseball,baseball
+9,Lemons,Corn,Corn.,Corn,corn
+10,Turn the red handle.,Turn the blue handle.,The text does not provide information on how to turn on the cold water.,Turn the faucet handle to the right.,with handle
+11,A blue chair.,Couch,The text does not specify what he is sitting on.,He is standing on a Wii Balance Board.,chair
+12,Green.,Red,The text does not provide information about the color of the car on the far right.,Red,red
+13,Sunset,Cupcake,The text does not mention a brand of wine.,Cupcake,cupcake
+14,No.,Yes.,The text does not provide information about a bear.,Yes.,yes
+15,No.,Yes.,No.,Yes.,yes
+16,A metal chair.,A wooden bench.,The text does not provide this information.,Bench.,bench
+17,Yes.,No.,No.,No.,no
+18,The coaches.,The umpires.,"The text does not provide information about ""the men in black.""",I don't know.,umpires
+19,Sunny.,Overcast,Sunny,Overcast.,overcast
+20,No.,Yes.,Unknown,Yes.,yes
+21,On top of a blue laptop.,On top of a red laptop.,The text does not provide information about a black laptop.,On top of the red laptop.,under phone
+22,Blue,Orange,The text does not provide information about the color of the man's jacket.,Orange,orange
+23,Spinach leaves.,Basil leaves.,The text does not mention a leafy substance.,Basil,basil
+24,MS 123 XY,MS 815 AJ,The text does not provide information about what is written on the boat.,MS 815 AJ,e-820 cr ms 815 aj
+25,No.,Yes.,The text does not provide information about whether the player is right-handed.,Yes.,yes
+26,A blue scarf.,A brown polka dot tie.,The text does not provide information about a baby or anything around a baby's neck.,A polka dot tie.,tie
+27,A blue book.,A camera.,Not specified.,A camera.,camera
+28,No.,Yes.,The text does not provide information about an image.,Yes.,yes
+29,A blue balloon.,A baseball glove.,The text does not provide information about a boy or what is on his hand.,A baseball glove.,glove
+30,Yes.,No.,Unknown,No.,no
+31,No.,Yes.,Unrelated question.,Yes.,yes
+32,No.,Unknown,No.,I don't know.,no
+33,A red boat.,There is no bridge archway present.,The text does not mention anything traveling under a bridge archway.,A boat.,water
+34,Kitchen,Waiting area,This text does not refer to a room in a house.,Living room.,living room
+35,Six.,Four.,The text does not provide information about the number of people on the field.,5,3
+36,No.,Yes.,No.,Yes.,yes
+37,No.,Yes.,The text does not provide information about a photograph.,Yes.,yes
+38,Red,White,The text does not provide information about the color of a person's shirt.,White,white
+39,Kitchen.,Bathroom,The text does not provide enough information to determine the kind of room pictured.,Bathroom,bathroom
+40,18,0,18 toes,Five,4
+41,Green,Purple,The text does not provide information about the color of the bear's apron.,Purple,pink
+42,No.,Yes.,The text does not provide information about a balcony under the clock.,Yes.,yes
+43,A painting and a clock.,A lamp and a mirror.,The text does not provide information about what is hanging on the wall.,A wall lamp.,lamp
+44,A red wall.,Blue sky.,The reflection is of Team TNA finishing in second place in the 2008 TNA World X Cup Tournament.,A landscape.,outside
+45,The text does not specify the number of buses.,One bus.,The text does not provide information about buses.,One.,1
+46,A bright blue color with a shiny texture.,A light brown color with a crispy texture.,The text does not provide information about a burger bun.,Onion and mustard.,chicken patty
+47,Playing with a ball of yarn.,Reaching into a cup with its paw.,The text does not provide information about a cat.,The cat is reaching into a cup.,drinking
+48,No.,Yes.,Unknown,Yes.,yes
+49,The text does not provide the age of the girl.,The text does not specify the girl's age.,Unknown,I don't know.,3
+50,No.,Yes.,Yes.,No.,no
+51,Floral pattern,Geometric pattern,The text does not provide information about any pattern on linens.,Geometric pattern.,triangles
+52,None.,The text does not specify the number of bananas.,The text does not provide information about bananas or oranges.,There are 14 bananas.,19
+53,No.,Yes.,The text does not provide information about clouds.,Yes.,yes
+54,Blue Tram Co.,Polperro Tram Co.,The text does not provide information about a trolley or the company operating it.,Polperro Tram Co.,polperro tram co
+55,None.,Three.,The text does not provide information about elephants.,Three.,3
+56,Yes.,No.,No.,No.,no
+57,A red necklace.,A scarf.,The text does not provide information about what is around the woman's neck.,A scarf.,scarf
+58,Blue.,Orange.,The Cut River Bridge.,Plastic mesh fencing.,fence
+59,Yes.,No.,Unknown,No.,no
+60,0,Three.,The text does not provide information about the number of brown teddy bears.,Three.,3
+61,No.,Yes.,The text does not provide information about goggles or eyes.,Yes.,yes
+62,Blue,White,The text does not provide information about the color of the refrigerator.,White,white
+63,Red,Blue,The text does not provide information about the color of the table top.,Green,green
+64,Blue and green,Black and white.,The text does not provide information about the color of the zebra.,Black and white.,black and white
+65,Because it is being cast on a wall.,Part of the shadow falls on a raised surface while the other part is on a lower surface.,The text does not provide information about a shadow being cut in half.,The shadow is cut in half because part of it falls on a different surface level.,concave
+66,Mountain biking,Snowboarding,Mixing,Snowboarding,snowboarding
+67,Yes.,No.,No.,No.,no
+68,Yes.,No.,Yes.,Yes.,no
+69,Backhand shot.,Forehand shot.,Casino Royale,Serve,tennis ball
+70,"Red, black, silver","Green, white, yellow",The text does not provide information about the colors of the train.,Green and white.,white and blue
+71,No.,Yes.,No.,Yes.,yes
+72,No.,Uncertain,No.,Yes.,yes
+73,A blue frisbee.,A baseball.,The text does not provide information about a man catching anything.,A baseball.,baseball
+74,No.,No.,The text does not provide information about elephants taking a bath or playing.,Playing.,playing
+75,The text does not specify the number of girls.,Several girls.,The text does not provide information about the number of girls on the advertisement.,Three.,7
+76,Refrigerator door.,Oven,The text does not provide information about any storage being open.,The oven is open.,oven
+77,Green,Orange,The text does not provide information about the color of the man's shirt.,Orange,orange
+78,Play a basketball game.,Preparing for a tennis match.,Face Wales on 22 December.,Play tennis.,play tennis
+79,Blue,Gray,The text does not provide this information.,Gray,gray
+80,Yes.,No.,Yes.,No.,no
+81,Green beans.,Broccoli,The text does not provide information about green food on a plate.,Broccoli with cheese.,broccoli
+82,Yes.,No.,The text does not provide information about cows.,No.,no
+83,Yes.,No.,No.,Yes.,no
+84,Twelve birds.,Six birds.,The text does not provide information about birds.,Six birds.,6
+85,Curtains.,Shutters,The text does not provide information about rectangular white items in front of the windows.,Shutters,blinds
+86,Blue,Green,The text does not provide information about the color of the man's necktie.,Green,green
+87,The text does not provide information on why the men in suits are overweight.,The text does not provide information on the weight of the men in suits.,The text does not provide information about why men in suits are overweight.,I can't determine the reasons for their appearance.,no longer active
+88,Several apples.,Several bananas.,The text does not provide information about fruits on a plate.,Six.,6
+89,Yes.,No.,The text does not provide information about an elephant.,No.,no
+90,No.,Yes.,The text does not provide information about a train engine.,Yes.,yes
+91,A bicycle.,Skateboard,The text does not provide information about what the person is riding.,Skateboard,skateboard
+92,The woman in the blue dress is preparing to cut it.,The woman in the foreground is preparing to cut the cake.,The text does not provide information about women or a cake.,I don't know.,not their birthday
+93,Blue bricks.,Woven reeds or bamboo.,The text does not specify the material of the walls.,Bamboo,bamboo
+94,Yes.,No.,The text does not provide information about a herd of zebras or their migration.,No.,no
+95,The wind is blowing towards the red section of the umbrella.,The wind is blowing towards the blue section of the umbrella.,The text does not provide information about the wind direction.,From right to left.,east
+96,Blue.,Not visible.,Green,Green,green
+97,Yes.,No.,The text does not provide information about spectators or their state of boredom.,Yes.,yes
+98,No.,Yes.,No.,Yes.,yes
+99,Yes.,No.,The question is unrelated to the text provided.,No.,no
+100,Three.,Three.,None.,Three.,4
+101,Red,Blue,The text does not provide information about the color of the vase on the table.,Clear,clear
+102,One book.,Several books.,The text does not provide information about any books.,Five.,1
+103,No.,Yes.,No.,Yes.,yes
+104,Blue smooth floor.,Yellow with a smooth surface.,The text does not provide information about the type of floor in the picture.,Wooden floor.,wood
+105,A blue umbrella.,A surfboard with a red edge.,The text does not provide information about what the person is carrying.,A surfboard.,surfboard
+106,123456,158872,The text does not provide information about numbers on the front of a train.,158872,58872
+107,Tulips,Roses,The text does not provide information about a flower in a vase.,Roses,rose
+108,Blue jeans,Corduroy pants.,The text does not provide information about pants.,Corduroy pants.,corduroy
+109,Yes.,No.,The text does not provide information about a child or their clothing.,No.,yes
+110,Yes.,No.,The text does not provide information about a picture.,No.,no
+111,One laptop.,Three.,The text does not provide information about laptops or a man using them.,Three.,3
+112,Blue,White,The text does not provide information about the color of the bear.,White,white
+113,Yes.,No.,The text does not provide information about a giraffe.,No.,no
+114,No.,Yes.,The text does not provide information about a skier.,Yes.,yes
+115,Yes.,No.,No.,No.,no
+116,Blue,White.,The text does not provide information about the color of the computers.,White,white
+117,Shopping mall,Aircraft hangar,Freeway,Hangar.,hanger
+118,20 mph,50 mph,The text does not provide information about the speed limit of the exit.,20,20
+119,No.,Yes.,Not applicable.,Yes.,yes
+120,Blue,Black,The text does not provide information about the color of the skateboard.,Black,black
+121,"A blue and white sign with the word ""VIESSMANN"".","A red and white sign with the word ""VIESSMANN"".",The text does not provide this information.,"A sign with the word ""VIESSMANN.""",sign
+122,Yes.,No.,The question is unrelated to the text provided.,No.,no
+123,A blue ceramic vase with a handle.,A clear glass jar with a handle.,Reign in Blood,A glass pitcher.,jar
+124,No.,No.,The text does not provide information about a bus or its color.,No.,no
+125,A truck.,A truck.,A Strela-2 launcher and a heat-seeking missile.,"Cow, hay bales, barrels, trash.",truck
+126,Yes.,No.,No.,No.,no
+127,Yes.,No.,The text does not provide enough information to determine if the female is an adult.,No.,no
+128,Bright blue,Reddish-brown.,The text does not provide information about the color of the field.,Orange,orange
+129,Fabric,Fabric,Wood,Fabric,wood
+130,Cutting the crumpled paper.,Cutting the crumpled paper.,The text does not provide information about a scissor.,Cutting paper.,cutting
+131,Unknown,Unknown,No.,I don't know.,yes
+132,A red balloon.,A blue fork.,The text does not provide information about a child or what they might be holding.,A spoon.,fork
+133,Rays,Rays,The text does not provide information about a team or a person named Crawford.,Rays,rays
+134,Blue,White,The text does not provide information about the color of the cat's whiskers.,White,white
+135,Uncertain,No.,The text does not provide information about a girl or drowning.,I can't determine that from the image.,no
+136,Yes.,No.,No.,No.,no
+137,Red characters.,Blue characters.,The text does not provide information about characters on a building.,Tamil characters,letters
+138,The text does not provide information on the number of tires.,Four tires.,The text does not provide information about a truck or the number of tires on it.,Six.,6
+139,Red wine.,White wine.,The text does not provide this information.,White wine.,white
+140,France,Australia,United States,Australia,australia
+141,3700 block,5100 block,The text does not provide information about a block of Edloe.,5100,5100
+142,No.,Yes.,No.,Yes.,yes
+143,The text does not specify whose room it is.,The text does not specify whose room it is.,The question is not answerable based on the provided text.,I don't know.,bathroom
+144,Parent-offspring relationship.,Siblings,The text does not provide information about zebras.,Mother and calf.,yes
+145,Red,Blue,The text does not provide information about the color of an umbrella.,Red,white
+146,Yes.,Yes.,The text does not provide information about a girl wearing a tie.,Yes.,yes
+147,Blue,White.,The text does not provide information about hair color.,White,white
+148,Yes.,Unknown,Not enough information.,I don't know.,no
+149,Three.,One.,The text does not provide information about any babies.,One.,1
+150,Blue,White,Not specified.,White,white
+151,Red,Blue,The text does not provide information about the color of his shoes.,Black,black
+152,The text does not provide information about blue dots.,Several,The text does not provide information about the number of blue dots on the kite.,Four.,20
+153,Unknown,Unknown,The text does not provide information about a team or a competition.,I can't determine the outcome of the match from this image.,blue
+154,Not applicable.,The text does not provide information on the height of the jump.,The text does not provide information about how high he is jumping.,Approximately 2 feet.,very high
+155,Insufficient information.,Unknown,Not enough information provided.,I don't know.,no
+156,Blue,Gray,The text does not provide information about the color of the road.,Gray,gray
+157,Yes.,No.,Unknown,No.,no
+158,A person wearing a blue shirt.,No one.,The text does not provide information about who is in the toilet.,I don't know.,no one
+159,Beach,United States,The text does not provide information about a photo or its location.,I don't know.,rodeo
+160,Yes.,No.,Not applicable.,No.,yes
+161,No.,Yes.,The question is unrelated to the text provided.,Yes.,yes
+162,Berry,Apples,This is not a question about a type of fruit.,Apples.,apple
+163,Yes.,No.,Not applicable.,No.,no
+164,Red,Blue,The text does not provide information about the color of the cafe's umbrellas.,Green,green
+165,Pie,Cake,The text does not describe a dessert.,Cake with berries.,cake
+166,None.,The text does not specify the number of sheep.,The text does not provide information about the number of sheep.,Fifteen.,15
+167,Red,Blue,The text does not provide information about the color of the surfboards.,White,white
+168,Red with white soles.,Black with white soles.,The text does not provide information about the color of the woman's shoes.,Black,black
+169,A sandy beach.,A surfboard.,The text does not provide information about a woman or what she is standing on.,Surfboard,surfboard
+170,Red,Blue,The text does not provide information about the color of the pillow.,Green,green
+171,Yes.,No.,The text does not provide information about a doughnut or cherry frosting.,No.,no
+172,Basketball,Tennis,The text does not specify a game that the man is playing.,Tennis,tennis
+173,Yes.,Unknown,No.,Unknown.,no
+174,Three.,One.,The text does not mention any teddy bears.,One.,3
+175,Three.,One.,None.,One.,1
+176,Unknown,Unknown,The text does not provide information about a person surfing.,I don't know.,man
+177,Yes.,No.,No.,No.,yes
+178,Plastic,Wood,The text does not provide information about the material of a basket.,Wood,wood
+179,15,42,The text does not provide information about a photo or the number of children in it.,42,38
+180,Red,Blue,The text does not provide information about the color of the backpack.,Red,red
+181,Dolphins,Elephants,The text does not provide information about an animal.,Elephants,elephant
+182,Yes.,No.,Not applicable.,No.,no
+183,A person.,No one.,The text does not provide information about who is using the toilet.,I don't know who is using the toilet.,no one
+184,Yes.,No.,The text does not provide information about wine.,No.,no
+185,One.,Two.,The text does not provide information about laptops.,Two.,2
+186,Yes.,Yes.,No.,Yes.,yes
+187,Two.,Four.,15,Four.,4
+188,Yes.,No.,Not applicable.,No.,no
+189,A modern blue sink with a faucet and a soap dispenser.,Squat toilet.,The Modern Ocean,Squat toilet.,scale
+190,Two.,One sign.,The text does not provide information about the number of signs in a picture.,One.,1
+191,One.,The text does not specify the number of different kinds of cupcakes.,The text does not provide information about cupcakes.,Five,2
+192,4am,4pm,The text does not provide information about a picture or the time depicted in it.,4pm,pm
+193,Yes.,No.,The text does not provide information about a skier.,No.,no
+194,Red,Blue,The text does not provide information about the color scheme of the photo.,"Blue, white, and green.",white and blue
+195,Chocolate bar,Banana,The text does not provide information about which food contains the most potassium.,Banana,banana
+196,GARDEN OF ROSES,PIRATE OF WALES,The text does not provide information about what is written on the cup.,PIRATE OF WALES RULER OF THE SEA,pirate
+197,Yes.,No.,The text does not provide information about ducks in the water.,No.,no
+198,It is not safe to walk.,It is safe to walk.,The text does not provide information about a sign.,Green pedestrian crossing signal.,walk
+199,Multiple trains,One train.,The text does not provide information about trains.,One.,1
+200,Five.,Two.,The text does not provide information about zebras.,Three.,1
+201,Red,Black,The text does not provide information about the color of the girl's pants.,Black,black
+202,Preparing for a race.,The boats are not in motion.,The text does not provide information about sailboats or their sails.,The sailboats are anchored.,no wind
+203,The cat.,The dog.,The text does not provide information about who wants to play.,The dog with the frisbee.,dog
+204,No.,Yes.,The text does not provide information about a spoon.,Yes.,yes
+205,Unknown,Yes.,The text does not provide information about a boat.,Yes.,yes
+206,We don't know.,The stop sign is on the side of the road.,The text does not provide information about a picture being taken from the road.,Stop sign.,stop sign
+207,Yes.,No.,The text does not provide information about a child or their direction.,No.,no
+208,No.,Yes.,The text does not provide enough information to determine if they are wearing backpacks.,Yes.,yes
+209,No.,Yes.,No.,Yes.,yes
+210,It is parked.,It is parked and partially covered in snow.,The text does not mention a brown truck.,The brown truck is being cleared of snow.,getting cleaned
+211,None,07.07.2013 13:20,The text does not provide any numbers in orange at the bottom.,08,0
+212,Five,Two.,The text does not provide information about birds.,Three.,3
+213,No.,Yes.,The text does not provide information about trains or their directions.,No.,no
+214,A blue pond.,Truck,Hotel bar,A truck.,truck
+215,Green,Blue,The text does not specify the color of the walls in the room.,Light blue,green
+216,Horizontal stripes,Horizontal stripes,The text does not provide information about a person's shirt pattern.,Striped,stripes
+217,"Blueberries, strawberries, bananas, whipped cream.","Cherry tomatoes, olives, mushrooms, cheese.",The text does not provide information about food or its toppings.,"Cherry tomatoes, olives, mushrooms, cheese.","tomato, cheese, onion"
+218,Yes.,No.,The text does not provide information about a plane flying.,No.,no
+219,Orange,Blue-gray.,The text does not provide information about a cat.,Gray,black
+220,Green,Blue,The text does not provide information about the color of the clock.,Blue,black
+221,Floral patterns,Striped pattern.,U.S. Highway 11,Chocolate drizzle.,drizzle
+222,Under ripe,Overripe.,The text does not provide information about the ripeness of a banana.,Overripe.,overripe
+223,Blue,Yellow,The text does not provide information about the color of a helmet.,Yellow,yellow
+224,A person in a blue dress.,A person in a red dress.,The text does not provide information about anyone being barefooted.,I don't know.,girl
+225,No.,Yes.,The text does not provide information about a van's passenger door.,Yes.,yes
+226,Red,Green,The text does not provide information about the color of a traffic light.,Green,green
+227,Kitchen,Living room.,Ethnic Studies Department of the University of Colorado,Living room.,living room
+228,Yes.,No.,The text does not provide information to answer the question.,No.,no
+229,Full color,Black and white.,The text does not provide information about a photo or its color.,Black and white.,black and white
+230,Spoon,Fork and knife.,The text does not provide information about silverware on a table.,Fork and knife.,fork and knife
+231,No.,Yes.,The text does not provide information about a horse.,Yes.,yes
+232,Yes.,No.,Yes.,Yes.,yes
+233,No.,Yes.,Yes.,Yes.,yes
+234,The text does not specify the number of people.,The text does not specify the number of people.,The text does not provide information about the number of people standing in front of the slope.,Seven,6
+235,Blue,Red,The text does not provide information about the color of her coat.,Red,red
+236,A red garment and a headscarf.,A white garment and a headscarf.,The text does not provide information about what the man on the right is wearing.,A white garment and a head covering.,hat
+237,On the toilet seat lid.,On the toilet seat lid.,There is no smiley face in the text.,On the toilet seat lid.,toilet lid
+238,Stars and stripes.,Smiley faces and letters.,The text does not provide information about designs on a man's wrist.,Smiley faces.,hearts
+239,Three.,One.,The text does not provide information about any trains.,One.,1
+240,Yes.,The text does not provide enough information to determine if there are trees at the back.,The text does not provide information about trees.,No.,no
+241,Three.,Six.,The text does not provide information about people.,Seven,6
+242,Yes.,No.,The text does not provide information about a curtain or its pattern.,No.,no
+243,No.,Yes.,The text does not provide enough information to determine if a picture is right side up.,Yes.,no
+244,Yes.,No.,No.,No.,no
+245,Blue,Red,The text does not provide information about the color of the flag.,Red and white.,red
+246,Ground beef,None,The text does not provide information about the type of meat in the chili.,Unknown,beef
+247,Yes.,No.,No.,No.,no
+248,Bright blue.,Light yellow.,The text does not provide information about the color of the walls.,Yellow,yellow
+249,Whale,Horse.,The text does not provide information about an animal shown in a city.,Horse,horse
+250,Yes.,No.,The text does not provide information about wine glasses.,No.,no
+251,No.,Yes.,No.,Yes.,yes
+252,Blue-colored dough.,Wheat-based dough,The text does not provide information about what the dough is made of.,Pita bread,flour
+253,Collaborative painting activity.,Engaged in a digital activity or social media interaction.,They are acting in a film.,Dancing.,dancing
+254,Unknown,Unknown,No.,I don't know.,no
+255,No.,Yes.,The text does not provide information about a laptop.,Yes.,yes
+256,Bird,Cat,Not applicable.,Cat.,cat
+257,Yes.,No.,The text does not provide information about a woman's happiness.,No.,no
+258,Unknown,None,Not applicable.,Rose,rose
+259,The text does not provide information about the breeze on the cheek.,Gentle and refreshing.,The text does not provide information about the sensation of a breeze on the cheek.,Warm and gentle.,warm
+260,No.,Unknown,No.,I don't know.,yes
+261,Coffee tasting event.,Wine tasting event.,A long-running rivalry between Tikal and Calakmul.,Wine tasting event.,wine tasting
+262,A book.,A book.,The text does not provide information about what the woman is reading.,I don't know.,book
+263,theVillager,theVillager,The text does not provide information about a bus or what it says on the side.,theVillager,villager
+264,Horizontally.,Diagonally.,The text does not provide information about how a sandwich is cut in half.,Diagonally.,with knife
+265,BLUE,JORDAN,The text does not provide information about what the sign says.,JORDAN,jordan
+266,A large bunch of blue balloons.,A large bunch of green bananas.,The text does not provide information about what the man is hauling.,Bananas.,bananas
+267,No.,Yes.,The text does not provide information about water clarity.,Yes.,yes
+268,Red,Blue,The text does not provide information about the most popular surfboard color.,Blue,blue
+269,Unknown,Yes.,No.,Yes.,yes
+270,3/4 mile away,The text does not provide information about the distance to a pay toll.,The text does not provide information about the pay toll.,1 mile,1 mile
+271,Yes.,No.,The text does not provide information about the sun rising.,Yes.,no
+272,Hay,Grass,The text does not provide information about animals or what they are eating.,Grass.,grass
+273,None,Two.,The text does not provide information about the number of sheep.,Two.,2
+274,Bird,Sheep,Not applicable.,Sheep,sheep
+275,Reading a book.,Playing a game.,The text does not provide information about what the girl is doing.,Playing a video game.,playing game
+276,A blue book.,A white game controller.,The text does not provide information about a woman or what is in her hand.,A Wii remote.,wii remote
+277,No.,Yes.,Not applicable.,Yes.,yes
+278,Yes.,No.,The text does not provide information about a photo or its location.,No.,no
+279,Sunglasses,A mask.,The text does not provide information about what Dan Shea has on his face.,A mask.,mask
+280,Grass,Snow,The text does not provide information about what is covering the ground.,Snow,snow
+281,bird,Dog,The text does not provide information about an animal-shaped cake.,Dog,dog
+282,50,30,The text does not provide information about a player's number.,44,44
+283,No.,Yes.,No.,Yes.,yes
+284,Yes.,Yes.,No.,Yes.,no
+285,Fresh blue flowers with large petals and green leaves.,"Dried branches with round, translucent seed pods and a decorative feather.",The text does not provide information about a vase.,Dried honesty plant (Lunaria) and a feather.,flowers
+286,A blue book.,A white gaming controller.,The text does not provide information about what she is holding.,Wii controllers,wii remote
+287,No danger indicated.,Potential hazards from debris and equipment.,The text does not provide information about the danger to a person climbing a fence.,Injury from sharp edges or falling.,spikes
+288,Slices of cake with red icing on top.,Slices of cake with blue icing.,The text does not provide information about what's on the white plates.,Cake slices.,cake
+289,No.,Yes.,The text does not provide information about the decor.,Yes.,yes
+290,Holding a glass of water.,Shaking hands.,The text does not provide information about a person on the left or their hand.,Shaking hands.,shaking
+291,Plant,Pom-poms.,The text does not provide information about an item hanging from a clock.,Pomander balls.,decoration
+292,Even point.,Odd point.,The text does not provide information about a woman serving for a point.,Even point.,odd
+293,Right hand.,Left hand.,Left,Left,left
+294,Blue and green.,"The horse on the left is black, and the horse on the right is white.",The text does not provide information about the color of a horse.,Black,white
+295,A bird.,A cat.,The text does not provide information about anything sitting on the hood of a car.,A cat.,cat
+296,Blue,Orange,Not specified.,Orange,orange
+297,Because they are blue and help them fly.,"Digging, lifting objects, gathering food, and defense.",The text does not provide information about why elephants have tusks.,"Defense, digging, lifting objects, gathering food, stripping bark, and social interactions.",it's adult
+298,Yes.,No.,The text does not provide information to answer the question.,No.,no
+299,Cold.,Hot,The text does not provide information about the temperature.,Hot.,hot
+300,Yes.,No.,Not applicable.,No.,no
+301,Red,Green,The text does not provide information about the color of plants in the window.,Green,green
+302,The text does not specify what the sign says.,The text on the sign is not clearly visible.,da boat da tide @-@ lumps,Piste,no sign
+303,Green,Red,The text does not specify the color of the man's hat.,Red,red
+304,One.,None.,The text does not provide information about frogs or birds.,0,0
+305,No.,Yes.,No.,Yes.,yes
+306,Yes.,No.,No.,No.,no
+307,Yes.,Unknown,The text does not provide information to answer this question.,I don't know.,no
+308,A large rock.,Bear,<unk>,Bear,bear
+309,Bicycles,Motorcycles.,Genocide inflicted on the indigenous people of the Americas by European settlers.,Motorcycles,motorcycle
+310,"Sitting on benches, reading newspapers.","Standing inside a train, facing towards the doors.",The text does not provide information about a picture or people in the background.,Boarding a train.,standing
+311,No.,No.,No.,No.,yes
+312,Green.,Purple.,The text does not provide information about the color of the wall.,Purple,purple
+313,The text does not specify the color of the dog.,The text does not specify the color of the dog.,The text does not provide information about the color of the dog.,Tan,brown
+314,Yes.,No.,Not applicable.,No.,no
+315,Yes.,No.,The text does not provide information about a bear wearing shoes.,No.,no
+316,Sitting on a bench.,Jumping in the air with a joyful expression.,The text does not provide information about what a man is doing.,Jumping.,jumping
+317,Rug,Couch,The text does not provide information about any plaid item in the room.,Sofa,couch
+318,Yes.,No.,Yes.,No.,no
+319,Basketball,Skateboarding,None,Ripstik riding,skateboarding
+320,A bed.,A bed.,The text does not provide information about a model kneeling on anything.,A bed.,bed
+321,Sculpture,A large blue dinosaur sculpture.,The text does not provide information about a dinosaur.,Brachiosaurus,brontosaurus
+322,A red snowboard.,A blue snowboard.,The text does not provide information about what is under the woman's feet.,Snowboard,snowboard
+323,Yes.,The text does not specify.,No.,Yes.,no
+324,Unknown,Unknown,The text does not provide information to answer the question.,I don't know.,yes
+325,Green and yellow.,Blue and white.,The text does not provide information about the colors on the sticker on the meter.,"Red, white, black.",red and black
+326,Blue paint.,Confetti.,The question cannot be answered with the given text.,Confetti.,rice
+327,No.,Yes.,No.,Yes.,yes
+328,Blue,Green,The text does not provide information about the color of the leaves on the tree.,Green,green
+329,In the middle of the soccer field.,On the sidelines of the soccer field.,The text does not provide information about a coach.,The coach is not visible in the image.,sidelines
+330,Yes.,Yes.,No.,Yes.,yes
+331,Yes.,Yes.,Unknown,Yes.,yes
+332,Yes.,No.,Not applicable.,No.,no
+333,No.,Yes.,The text does not provide information about bananas.,Yes.,yes
+334,Yes.,No.,No.,No.,no
+335,No.,Yes.,The text does not provide information about benches.,Yes.,yes
+336,On a red floor in a garage or workshop setting.,On a blue floor in a garage or workshop setting.,The text does not provide information about where motorcycles are parked.,"Indoors, in a workshop or garage.",garage
+337,Foam,Foam,The text does not provide information about what is white in the water.,Foam,surfboard
+338,A person with a blue hat.,A person with short hair.,The text does not provide information about anyone looking out the window.,I don't know who they are.,boy
+339,Unknown,Yes.,The text does not provide information about a picture or a laptop.,Yes.,yes
+340,None.,The text does not specify the number of buildings.,The text does not provide information about the number of buildings in the distance.,Seven.,3
+341,Three.,Two.,The text does not specify the number of people.,Two.,2
+342,"Tomatoes, cucumbers, lettuce, radishes, onions.","Carrots, green beans, cauliflower, broccoli, celery.",None,"Carrots, green beans, cauliflower, broccoli, celery, zucchini.","green beans, celery, broccoli, carrots, and cauliflower"
+343,No.,Yes.,The text does not provide information about a dress.,Yes.,yes
+344,Casual outdoor picnic.,Graduation ceremony.,Filming of scenes featuring Berry in a bikini.,Graduation ceremony.,graduation
+345,No.,Yes.,No.,Yes.,yes
+346,A bus.,A train.,The text does not provide information about a girl getting on anything.,Train,train
+347,Volvo,Mercedes-Benz,The text does not provide information about a bus.,Mercedes-Benz,mercedes
+348,The text does not provide a specific name for the man in the red flannel shirt.,The text does not provide the name of the man in the red flannel shirt.,The text does not provide information about a man in a red flannel shirt.,I don't know who he is.,grandfather
+349,No.,Yes.,The text does not provide information about snow on trees.,Yes.,yes
+350,Yes.,No.,No.,No.,no
+351,BLUE 123,SN55 JVK,The text does not provide information about a license plate.,SN55 JVK,sn55 jvk
+352,Yes.,No.,The text does not provide information about a girl moving.,No.,no
+353,Painting,Mirror,No.,Mirror,mirror
+354,The team of the player in the red uniform.,The team with the player in the blue uniform.,William O. Bradley,I don't know.,blue team
+355,Multiple trees.,One.,The text does not provide information about the number of trees.,One.,1
+356,Fish,Dog,No animal is represented.,Dog,dog
+357,Red,Cream,Unknown,Beige with blue and purple accents.,tan and blue
+358,Red,Blue,The text does not provide information about the color of the building.,Gray,white and brown
+359,Red with white stripes.,Green with white stripes.,The text does not provide information about the color of the players' shirts.,Green,green
+360,Three.,Two.,0,Two,2
+361,Green,Red,The text does not provide information about the color of the pillow on the right.,Red,pink
+362,"Camel, sheep","Donkey, cows.","Knights, Sun Devils, Crusaders, Centaurs",Cows and a donkey.,cows
+363,Bright blue.,Brown,The text does not provide information about the color of the bears.,Brown,brown
+364,Green.,Blue,The text does not provide information about the colors of the surfboard.,"Yellow, red, blue.",primary colors
+365,Unknown,Yes.,The text does not provide information about a car in the background.,Yes.,yes
+366,No.,Yes.,The question is unrelated to the text provided.,Yes.,yes
+367,A baby.,A toy bear.,The text does not provide information about anyone playing a musical instrument.,The toy bear.,bear
+368,"Sitting in a boat on a river, wearing a red shirt and a straw hat, observing an elephant.","Sitting in a boat on a river, observing an elephant.",The text does not provide information about what a specific man is doing.,Riding on a boat.,riding elephant
+369,Five stripes.,Three stripes.,The text does not provide information about the number of stripes on the man's shirt.,Four.,9
+370,No.,Yes.,No.,Yes.,yes
+371,A red canoe.,A blue narrowboat.,The text does not provide information about what is in the water.,A narrowboat.,barge
+372,The text does not specify the number of birds.,0,None.,0,0
+373,A blue bench.,A motorized wheelchair.,The text does not provide information about a woman or what she is sitting on.,A wheelchair.,wheelchair
+374,Yes.,No.,The text does not provide information about the shower curtain.,No.,no
+375,Red,Blue,Not specified.,Green.,green
+376,The text does not mention an aircraft; it describes a boat.,For boarding and disembarking passengers.,The question is unrelated to the text provided.,It's at an airport gate for boarding or deplaning.,at airport
+377,Red,Blue,The text does not provide information about the color of the photo.,Color,"brown, green"
+378,Left-handed,Right-handed.,The text does not provide information about a batter's handedness.,Right-handed.,right
+379,No.,Yes.,The text does not mention a boat.,Yes.,yes
+380,Yes.,No.,No.,No.,no
+381,Two giraffes.,One,None.,One.,0
+382,Red,Blue,Green,Blue,blue
+383,Not visible.,Yes.,No.,Yes.,yes
+384,Water is not visible in the image.,Background.,The text does not provide information about an image or water visibility.,Top part of the image.,top
+385,Germany,Poland,Wales,Poland,poland
+386,No.,Yes.,No.,Yes.,yes
+387,Balloon festival.,Kite festival.,@-@ ending ceremony,Kite festival.,kite
+388,Skirt,Skirt,The text does not provide information about a material wrapped around her waist.,Sarong,skirt
+389,Red,Blue,Not applicable.,Green,white
+390,No.,Yes.,No.,Yes.,yes
+391,No.,Yes.,The text does not provide information about basil on a tray.,Yes.,yes
+392,Selfie,Selfie,Surveillance photograph,Selfie,selfie
+393,Suitcase,Backpack,The text does not provide information about a red item beside a cat.,Backpack,backpack
+394,Ford,Kia,The text does not provide information about a car manufacturer.,Kia,kia
+395,Unknown,The text does not provide enough information to determine the age of the book.,The text is not about a book.,Yes.,yes
+396,Yes.,No.,No.,No.,no
+397,Yes.,No.,No.,No.,no
+398,Lake,River,The text does not provide information about a body of water.,River,lake
+399,Yes.,No.,The text does not provide information about any cats.,No.,no
+400,Circular.,Octagonal,The text does not provide information about the shape of the sign.,Octagon,octagon
+401,Rural setting.,Urban setting.,Urban setting.,Urban.,urban
+402,None,Two.,The text does not provide information about baby teeth.,Four,4
+403,Yes.,No.,Irrelevant.,Yes.,no
+404,Yes.,Yes.,The text does not provide information about whether the man is wearing glasses.,Yes.,yes
+405,Green roof and yellow walls.,Red roof and white walls.,The text does not provide information about the color of the building behind the train.,White,white
+406,Blue,White,The text does not provide information about the color of an animal.,White,white
+407,You cannot tell it's a sunny day.,Sunlight reflecting off the water.,The text does not provide information about the weather or how to tell if it's a sunny day.,The bright reflections on the water.,lights reflection
+408,Beach ball,Ferris wheel model,altar,Ferris wheel.,ferris wheel
+409,No.,Yes.,The text does not provide information about the sky.,Yes.,yes
+410,Yes.,No.,The text does not provide information about a meal.,No.,no
+411,Red,White.,The text does not provide information about the color of the frisbee.,White,white
+412,Yes.,No.,The question is unrelated to the text provided.,No.,no
+413,Red,Blue,The text does not provide information about the color of the numerals on the clock.,Black,black
+414,Yes.,No.,No.,No.,no
+415,Yes.,Yes.,Not applicable.,Yes.,yes
+416,Two.,Two.,The text does not provide information about the number of pillows.,Two,3
+417,Yes.,No.,The text does not provide information about the grass.,No.,no
+418,Coca-Cola,Pepsi,The text does not mention a brand of drink.,Pepsi,pepsi
+419,Unknown,Yes.,No.,Yes.,yes
+420,Red,Blue,The text does not provide information about the color of the stitching on the ball.,Red,red
+421,A painting.,Sandwich.,Sonic the Hedgehog game.,A sandwich.,sandwich
+422,A stuffed bear wearing a red bandana.,A stuffed bear wearing a blue bandana.,<unk> vinyl ketones,A bear costume.,bear
+423,At least ten sheep.,At least four sheep.,The text does not provide information about the number of sheep.,Five.,5
+424,Five.,Two.,The text does not provide information about the number of people in a picture.,Two.,2
+425,Five.,Five,The text does not mention any fruits.,Four.,7
+426,A blue mailbox.,A red fire hydrant.,The text does not provide information about a bike.,Fire hydrant.,fire hydrant
+427,No.,Yes.,No.,Yes.,yes
+428,One.,Two humans.,The text does not provide information about the number of humans.,Two.,2
+429,The text does not specify the number of digits.,The text does not specify the number of digits.,The text does not provide information about a train number.,2,2
+430,No.,Yes.,The text does not provide information about the weather.,Yes.,yes
+431,The black stuff is the background of the stop sign.,The black stuff is the background color of the stop sign.,The text does not provide information about the black stuff under the word stop.,Shadow of a person.,shadow
+432,Yes.,No.,Irrelevant question.,No.,no
+433,Pen,Scissors,A film set.,Scissors,scissors
+434,A blue road.,A set of railway tracks.,The text does not mention a train.,Railway tracks.,tracks
+435,Unknown,Yes.,Unknown,Yes.,yes
+436,Red wall,Blue wall,The text does not provide information about what holds the clock up.,A nail.,nail
+437,Sleeping,Bathroom activities.,Drumming,Bathroom,bathroom
+438,Bright blue,Dark brown,The text does not provide information about the color of the table.,Dark brown,brown
+439,No.,Yes.,The text does not provide information about a train.,Yes.,yes
+440,The text does not provide information about the contents of the cow's stomach.,The text does not specify what is in the cow's stomach.,The text does not provide information about what is in a cow's stomach.,A cannula.,port
+441,Red,The text does not provide information about the color of the rail around the pool.,The text does not provide information about the color of the rail around the pool.,The image does not show a pool.,white
+442,A wooden trough with a red object inside.,A wooden trough with a blue object inside.,The text does not provide information about a horse or what it is looking at.,The horse is looking at the ground.,ground
+443,Around the neck.,Around the neck.,The text does not mention necklaces.,Around the neck.,neck
+444,Calico cat.,Blue tabby cat.,The text does not provide information about a cat in the luggage.,Tabby cat.,siamese
+445,Glass,Wood,The text does not provide information about the cutting board.,Wood,plastic
+446,No.,Yes.,The text does not provide information about a surfer jumping high.,Yes.,yes
+447,Blue whale,Polar bear.,The text does not mention any animal.,Polar bear.,polar bear
+448,Blue,Brown,The text does not provide information about the color of a zebra's nose.,Brown,brown
+449,No.,Uncertain,The text does not provide enough information to determine if a specific person is in danger.,No.,yes
+450,Blue,Bowie,The text does not provide information about what their shirts say.,Bowie,10
+451,No.,Uncertain.,No.,I don't know.,no
+452,No.,No.,Not applicable.,No.,no
+453,A blue vase.,A stone elephant sculpture.,The text does not provide information about what is holding the rope.,A stone elephant sculpture.,elephant trunk
+454,3:45,10:10,The text does not provide information about the current time.,11:55,11:43
+455,Yes.,No.,Not applicable.,No.,no
+456,Wood,Metal,The text does not provide information about what the bed is made of.,Metal,metal
+457,Red,Green,The text does not provide information about a cat or the color of a tie.,Green,green
+458,Red,Blue,The text does not provide information about the color of the tennis player's shorts.,Dark gray,black
+459,Two.,One,The text does not provide information about the number of monitors currently active.,One.,1
+460,None.,Two.,The text does not provide information about apples.,Two.,3
+461,Green,White,The text does not provide information about the color of the bedspread.,White,white
+462,No.,Yes.,Unknown,Yes.,yes
+463,Yes.,No.,The text does not provide information about flowers growing.,No.,no
+464,Red,Blue,The text does not provide information about the color of the background.,Green,green
+465,Blue and white,Orange and white.,The text does not provide information about the color of the barrels.,Orange and white.,orange and white
+466,Catch the fish.,Hit the ball.,The text does not provide information about what the kid is supposed to do.,Hit the ball with the bat.,hit ball
+467,Blue,Yellow,The text does not provide information about the color of the board.,Yellow,yellow
+468,"A red apple, a green plant, and a stack of books.","A bottle of dish soap, a plastic bag, and two metal bowls.",The text does not provide information about what is on the table.,"Two metal bowls, a plastic bottle, and a bag.",bowls
+469,No.,Yes.,Yes.,Yes.,yes
+470,A red object.,A blue object.,The text does not provide information about an animal or what is on its head.,A bucket.,nothing
+471,Red jacket.,Blue jacket.,The text does not provide information about a man's jacket.,Striped jacket.,none
+472,0,At least two people.,The text does not provide information about people wearing costumes.,Two.,2
+473,No.,Yes.,No.,Yes.,yes
+474,Blue,Silver,Not specified.,Silver,white
+475,Multiple steps.,One step.,The text does not provide information about the number of steps leading into the building.,Three steps.,3
+476,Blue,White,Not specified.,White,white
+477,No.,No.,No.,No.,no
+478,Yes.,No.,The text does not provide information about a person wearing a name badge.,No.,no
+479,B,S,The text does not provide information about a poster or a letter displayed on it.,S,s
+480,No.,Yes.,The text does not provide information about grout cleanliness.,No.,no
+481,Red,Blue,The text does not provide information about the color of the man's suitcase.,Black,black
+482,12345,46115,The text does not provide information about a train or a number associated with it.,46115,46115
+483,No.,Yes.,The text does not provide information about the temperature of the water.,Yes.,yes
+484,Penguins.,Giraffes.,The text does not mention any animals.,Giraffes and antelopes.,giraffes
+485,Left ear.,Right ear.,The text does not provide information about a man or which ear to whisper into.,Left ear.,left
+486,Uncertain.,Yes.,No.,Yes.,yes
+487,Unknown,The text does not provide enough information to determine the race of the individuals.,The text does not provide information about the race of the people involved.,I don't know.,no
+488,Joy and amusement.,Tiredness or sadness.,The text does not provide information about a child's emotion.,Fatigue,sad
+489,Red plastic serving spoon.,Serving spoon.,The text does not provide information about a utensil in a bowl.,Plastic serving spoon.,spoon
+490,Three.,Five.,The text does not provide information about the number of kids in the picture.,Five.,5
+491,No.,Yes.,No.,Yes.,yes
+492,The text does not specify anyone not dressed the same.,The text does not specify anyone not dressed the same.,The text does not provide information about anyone's attire.,The person in the pink shirt.,man in back
+493,A red frisbee.,A blue frisbee.,The text does not provide information about the man catching anything.,Frisbee,frisbee
+494,No.,Yes.,The text does not provide information about garages.,Yes.,yes
+495,Each other.,Each other.,The question does not relate to the provided text.,Each other.,each other
+496,The text does not specify the number of donuts with M&M's.,None,The text does not provide information about donuts with M&M's.,One.,0
+497,Yes.,No.,No.,No.,no
+498,Blue,Black and white.,The text does not provide information about the color of the umbrellas.,Black and white.,black and white
+499,Red,Blue,The text does not provide information about the color of the center bike.,Black,black
+500,No.,Yes.,No.,Yes.,yes
+501,A blue recycling bin.,A suitcase.,Garnet,The suitcase.,suitcase
+502,Red,Blue,The text does not provide information about the color of the truck.,Black,black
+503,Five,Three,The text does not provide information about the number of doors on the oven.,Three,3
+504,No.,Yes.,No.,Yes.,yes
+505,No.,Yes.,No.,Yes.,yes
+506,On the wall above the sink.,Outside the window.,The text does not mention a tree.,Outside the window.,outside
+507,On the cup.,On the cup.,"The text does not mention ""Runs"".",On the cup.,cup
+508,Shorts,Blue jeans.,The text does not provide information about the kind of pants people are wearing.,Jeans,jeans
+509,No.,Yes.,No.,Yes.,yes
+510,Female,Male and female.,Not specified.,Male,female
+511,Parrot,Pigeon,The text does not provide information about a type of bird.,Pigeon,pigeon
+512,Pasta and bread.,Pizza and salad.,The text does not provide information about what the person to the far right will have for dinner.,Milk,milk
+513,Yes.,Yes.,The text does not provide information about a bathroom or its pattern.,No.,no
+514,AB,WP,US 2,WP,wp
+515,Five,Two.,None.,Four.,2
+516,No.,Yes.,No.,Yes.,yes
+517,Several clocks.,One clock.,The text does not provide information about clocks.,One.,1
+518,Soccer field.,Baseball field,"Southeast of Cape Padaran, Indochina",Baseball field.,baseball field
+519,Blue,Orange,The text does not provide information about the color of her racket.,Orange,orange
+520,Blurry and pixelated.,Clear and detailed.,The text does not provide information about screen resolution.,640x480,high
+521,Modern bus,Vintage bus,The text does not provide information about a bus.,Mercedes-Benz O 3500,red
+522,No.,Yes.,Yes.,Yes.,yes
+523,BLUE,SKYLINER,wounded,DESIGN,skyliner
+524,No.,Yes.,The text does not provide information about the garage door.,Yes.,yes
+525,Red.,Black,The text does not provide information about the color of the man's umbrella.,Black,black
+526,Five.,Two.,The text does not provide information about lemon slices in a dish.,Two.,2
+527,Three.,Two.,The text does not provide information about the number of vehicles on the road.,Two.,6
+528,1830,Established,The text does not provide information about the meaning of 'Est'.,Established,established
+529,Yes.,Yes.,Yes.,Yes.,yes
+530,Red,Black,The text does not provide information about the color of the man's shirt.,Black,black
+531,Blue,White,The text does not provide information about the color of the apron.,White,white
+532,Yes.,No.,No.,No.,no
+533,Convex,Concave,Concave,Concave,concave
+534,None.,Five.,The text does not provide information about the number of toothbrushes.,Eight.,10
+535,Blue,Black and white.,The text does not provide information about the color of a zebra.,Black and white.,black and white
+536,Kitchen,Home office.,Courtroom,Home office.,living room
+537,Bright blue,Light wood,The text does not provide information about the color of the cabinets.,Light wood,brown
+538,Contemporary art gallery.,An old church or chapel.,A church.,Church.,church
+539,Upwards.,Downwards.,Not specified.,Downward.,down
+540,A blue kayak.,A surfboard.,The question is unrelated to the text provided.,Surfboard,surfboard
+541,No.,Unknown,The text does not provide information about hair color.,I don't know.,no
+542,Green,Blue,The text does not provide information about the color of the top bag.,Blue,blue
+543,No.,No.,The text does not provide information to answer this question.,No.,yes
+544,Yes.,No.,Yes.,No.,no
+545,Several compartments.,Two compartments.,The text does not provide information about the number of compartments in a suitcase.,Two compartments.,3
+546,A red and white balloon.,A red and white kite.,The text does not provide information about what is on the sky.,Kite,kite
+547,No.,Yes.,The text does not provide information about pizza.,Yes.,yes
+548,Solid,Diamond design.,The text does not provide information about the pattern of her hose.,Diamond pattern.,diamond
+549,The text does not specify the material of the couch.,Not applicable.,The text does not provide information about the material of a couch.,There is no couch in the image.,cotton
+550,A person wearing a blue and yellow outfit.,A person wearing a white and green outfit.,The text does not provide information about who rides the bike.,I don't know who rides the bike.,man
+551,"Upside down, clear, with a red tint.","Upside down, clear, with a blue tint.",The text does not provide information about glasses.,Upside down.,upside down
+552,Yes.,No.,Unknown,No.,no
+553,Yes.,Unknown,The text does not provide information about a woman wearing a hat.,No.,no
+554,3:45,It is difficult to read the time.,The text does not provide information about the time on the clock.,10:10,6:55
+555,Red,Blue,The text does not provide information about the color of the boy's pants.,Blue,blue
+556,2 dollars,5 dollars.,The text does not provide information about the cost of McIntosh apples.,5$,5$
+557,On a beach.,On a sidewalk.,The text does not provide information about a man walking.,On the sidewalk.,sidewalk
+558,Blue,Red,The text does not provide information about the color of the train.,Red,red
+559,The text does not provide information on how the soda was sweetened.,The text does not provide information about a soda or how it was sweetened.,The text does not provide information on how the left soda was sweetened.,Cane sugar.,sugar
+560,Painting a mural.,Skateboarding.,Thinking about a world without divisions.,Skateboarding.,skateboarding
+561,Surfing,Skiing or snowboarding.,Fencing,Skiing,snowboarding
+562,Blue and purple.,Orange and green.,The text does not provide information about the color of vegetables on the plate.,Orange and green.,orange and green
+563,Red,Light blue,The text does not provide information about the color of the plane.,Light blue,blue
+564,No.,No.,No.,Yes.,no
+565,No.,Yes.,No.,Yes.,yes
+566,No.,Yes.,Unknown.,Yes.,yes
+567,A large bookshelf filled with books.,A fireplace with a stone surround.,The text does not provide information about a little girl or what is to her left.,Fireplace,fireplace
+568,Yes.,Yes.,The text does not provide information about a soap or a soap dish.,Yes.,yes
+569,Preparing to throw the ball.,Crouching behind the batter and ready to catch the ball.,The text does not provide information about what the guy on the right is doing.,Catching.,catching
+570,Yes.,No.,Unknown,No.,yes
+571,Preparing to hit the ball.,To catch the ball.,The text does not provide information about someone crouching.,Catcher.,to catch ball
+572,Yes.,No.,The text does not provide information about the sky.,No.,no
+573,Midday,Sunset.,The text does not provide information about the time of day the picture was taken.,Sunset.,sunset
+574,No.,Yes.,Unknown,Yes.,yes
+575,The text does not specify the number of colored cups.,The text does not specify the exact number of colored cups.,The text does not provide information about colored cups.,Five.,0
+576,No.,Yes.,No.,Yes.,yes
+577,No.,Yes.,The text does not provide information about the weather or the presence of clouds in the sky.,Yes.,yes
+578,A red towel.,A blue towel.,A bullet nick.,A towel.,towel
+579,Yes.,No.,The text does not provide information about the color of water.,No.,no
+580,Formal suits.,Swim trunks.,In fake French uniforms.,In swim trunks.,swimsuits
+581,Unknown,Yes.,No.,Yes.,yes
+582,No.,Yes.,No.,Yes.,yes
+583,Uncertain,Uncertain,No.,Unknown.,yes
+584,Yes.,Yes.,No.,Yes.,yes
+585,No.,Yes.,No.,Yes.,yes
+586,Subjective.,Subjective.,Not applicable.,No.,no
+587,Bathroom,Kitchen,"Muskogee, Oklahoma",Kitchen,kitchen
+588,Blue,Virgin,Rajneeshpuram,Virgin,virgin
+589,Blue,White,The text does not provide information about the color of the building.,White,white
+590,Behind the dogs.,In front of the dogs.,The text does not provide information about the sun or dogs.,In front of the dogs.,behind
+591,Palm trees,Evergreen trees.,The text does not provide information about a tree.,Spruce,pine
+592,up & up,up & up,Orlando Puerta,Up & Up,up&up
+593,Lefty,Righty,The text does not provide information about a batter being a lefty or a righty.,Righty.,lefty
+594,A red object.,A blue object.,The text does not provide information about a dog or anything blocking the view of a dog.,Leaves and branches.,branch
+595,Five.,Two.,The text does not provide information about a photo or the number of animals in it.,Two.,2
+596,No.,Yes.,No.,Yes.,yes
+597,French,Arabic,English,Arabic,arabic
+598,XYZ,STB,II,STB,stb
+599,Two.,One,None.,One.,2
+600,10:10,3:45,The text does not provide information about the time.,10:10,6:20
+601,No.,Yes.,Unknown,Yes.,yes
+602,The section with red leaves.,The branches.,The guest appearance by Kiss.,I can't provide guidance on trimming trees based on this image.,top
+603,Yes.,No.,The text does not provide information about a desk or its organization.,No.,yes
+604,Right,Left,The text does not provide information about the position of the sun relative to a photographer.,Right,left
+605,Circular.,Not specified.,The text does not provide information about the shape of the light bulbs used in the overhead lamps.,Rectangular,circular
+606,Leaving,Arriving.,Leaving.,Arriving.,arriving
+607,A large body of water.,The clear blue sky.,The text does not provide information about what the giraffe is looking at.,I don't know.,sky
+608,A blue hat.,Horns,The text does not provide information about an animal or what is on its head.,Horns,horns
+609,Four.,2,The text does not provide information about photos or forks.,One.,1
+610,One.,Two cars.,The text does not provide information about the number of cars.,Four.,3
+611,A large red balloon.,A clear blue sky.,The text does not provide information about what is in the top right corner.,Tree branches.,tree
+612,Blue,Gray,The text does not provide information about a bird or its color.,Gray and red.,gray
+613,No.,Yes.,The text does not provide information about the cleanliness of a room.,Yes.,yes
+614,Metal,Wood,The text does not specify any material.,Wood and metal.,wood
+615,Yes.,No.,No.,No.,no
+616,No.,Yes.,Yes.,Yes.,yes
+617,No.,Yes.,No.,Yes.,yes
+618,Cherry,Strawberry,The text does not provide information about a red fruit.,Strawberry.,strawberry
+619,The right monitor.,The left monitor.,The text does not provide information about screens or Facebook.,The left screen.,none
+620,Several slices.,0,The text does not provide information about slices of pizza eaten.,None.,0
+621,Yes.,No.,The text does not provide information to determine if it is noon.,No.,no
+622,Yes.,Unknown,The text does not provide information about a picture or skis.,No.,no
+623,Bedroom,Bedroom,Hamburg Interior Authority,Bedroom.,bedroom
+624,No.,Yes.,No.,Yes.,yes
+625,On the ground.,On the ground.,The text does not provide information about shadows.,"On the ground, extending towards the bottom right.",on ground
+626,Likely.,No.,The text does not provide information about a specific person or their age.,No.,no
+627,Yes.,No.,Unknown.,No.,no
+628,The text does not specify what is at the bottom of the mountain.,The text does not provide information about what is at the bottom of the mountain.,The text does not provide information about what is at the bottom of the mountain.,I don't know.,snow
+629,Yes.,No.,No.,No.,yes
+630,Blue,White with red accents.,The text does not provide information about the color of the airplanes.,White with red accents.,white and red
+631,Red,Blue,The text does not provide information about the color of the hydrant.,Silver,gray
+632,Red brick tiles.,Blue slate tiles,The text does not provide information about what is on the floor.,Slate tiles,tile
+633,Yes.,No.,The text does not provide information about a laptop.,No.,no
+634,$2.99,$1.39,The text does not provide information about the cost of the Cheeseburger Link.,$1.39,1.39
+635,No.,Yes.,No.,Yes.,yes
+636,Unknown,Unknown,The text does not provide information about a man or woman holding a pizza.,I don't know.,man
+637,Basketball,Tennis,The text does not mention any sport.,Tennis,tennis
+638,Yes.,No.,Unknown,No.,no
+639,Yes.,No.,No.,No.,no
+640,Five.,Three.,The text does not provide information about the number of glasses.,Five,7
+641,"Electronic gadgets, including smartphones, laptops, and headphones.",Fresh fruits and vegetables.,The text does not provide information about a place selling anything.,Fruits and vegetables.,fruit
+642,His face appears dark and shadowed.,Overexposed and washed out.,The text does not provide information about his face.,I don't know who this is.,nothing
+643,No.,No.,The text does not provide information about waves crashing.,Yes.,yes
+644,Two adults.,The text does not provide information about the number of adults.,The text does not provide information about the number of adults.,Zero.,0
+645,Yes.,No.,Not applicable.,No.,no
+646,The text does not specify what is in the toilet.,A dog's head.,The text does not provide information about what is in the toilet.,A dog.,cat
+647,In front of him.,Behind the man.,The text does not provide this information.,In front of him.,behind
+648,3:45,10:10,The text does not provide information about the current time.,10:10,12:50
+649,CREATIVE LAYERS.in,CREATIVE LAYERS.in,The text is about Australia's military involvement and commitments in Malaysia and the surrounding region as part of the Five Power Defence Arrangements.,CREATIVELAYERS.in,creativelayersin
+650,Blue,White,The text does not provide information about the color of the vases.,White,white
+651,A red hue.,A blue hue.,The <unk> Building,Zebra,shadow
+652,3:45,10:10,The text does not provide information about the time on the clock.,11:10,11:05
+653,Five.,Three.,The text does not provide information about soda bottles on the counter.,Three,3
+654,A birthday.,Teddy Bear's Picnic,The text does not provide information about bears or what they are celebrating.,Teddy Bear's Picnic.,picnic
+655,Ice cream cone.,Cake with strawberries on top.,The text does not provide information about a dessert on a girl's shirt.,Cake,cake
+656,10:10,3:45,The text does not provide information about the current time.,3:55,2:30
+657,Subjective.,Subjective.,The text does not provide information to answer this question.,It depends.,yes
+658,Transporting goods.,Transporting students.,The text does not mention buses.,School transportation.,school
+659,Red with a green tint.,White with a blue tint.,The text does not provide information about the color of the toilet.,White,white
+660,A dog.,A child with dark hair.,The text does not provide information about who is sitting by the ball.,I don't know.,boy
+661,Smiling joyfully.,Focused and intensely concentrating expression.,The text does not provide information about the man's facial expression.,Focused,concentration
+662,Yes.,No.,No.,No.,no
+663,No.,Yes.,The text does not provide information about a pizza.,Yes.,no
+664,Pitching.,Catching a ball.,The text does not provide information about what the man is doing.,Pitching a baseball.,pitching
+665,One person.,The text does not specify the number of people.,The text does not provide information about the number of people in the picture.,Seven.,8
+666,The text does not specify the number of people.,The text does not specify the number of people in the photo.,The text does not provide information about a photo or the number of people in it.,85,80
+667,Green,Blue,The text does not provide information about the color of the sky.,Blue,blue
+668,No.,Yes.,No.,Yes.,yes
+669,Red,Blue,The text does not provide information about the color of the short stop's shirt.,Green,green
+670,No.,No.,No.,No.,no
+671,Sandy beach,A grassy plain.,The text does not provide information about a giraffe.,Grass,grass
+672,Typing on a laptop.,Smiling at the camera.,The text does not provide information about what the man is doing.,Standing next to surveillance equipment.,standing
+673,A blue painted platform.,Railway tracks.,The text does not mention a train.,Tracks,tracks
+674,Blue,Yellow,The text does not provide information about the color of the wheels.,Yellow,yellow
+675,Blue,White,The text does not provide information about the color of the mouse.,White,white
+676,Three.,One.,The text does not provide information about baby zebras.,One.,1
+677,In a pond.,On a branch.,The text does not mention a bird.,On a branch.,on branch
+678,The text does not specify the presence of a plate.,Yes.,No.,Yes.,yes
+679,Uncertain,No.,No.,No.,no
+680,Birds,Cows,Slayer,Cows,cow
+681,No.,Yes.,The text does not provide information about waves in the water.,Yes.,yes
+682,Yes.,No.,The text does not provide information about the weather.,No.,no
+683,0,Two per cabinet.,The text does not provide information about cabinet pulls.,Six.,4
+684,Hiking.,Roller skating.,Interviewing the cast and crew as suspects.,Roller skating.,roller skating
+685,Yes.,No.,No.,No.,no
+686,Red,Blue,The text does not provide information about the color of the chairs.,Blue,blue
+687,Red letters.,Blue letters.,The text does not provide information about letters shown on a keyboard.,"A, S, D, M",yulghjbnm
+688,No.,Yes.,"The text does not provide information about a man or his location, so it cannot be determined if the man is in snow.",Yes.,yes
+689,No.,Yes.,The text does not provide information about what anyone is wearing.,Yes.,yes
+690,Five mailboxes.,Two.,The text does not provide information about the number of mailboxes.,Two.,2
+691,Yellow,Blue,The text does not provide information about the color of the hydrant.,Yellow,yellow
+692,No.,Yes.,The text does not provide information about a TV in the bathroom.,Yes.,yes
+693,Dolphin,Rhinoceros,The text does not provide information about an animal the clock is sitting on.,Rhinoceros,rhino
+694,No.,Yes.,Not applicable.,No.,yes
+695,Unknown,Yes.,No.,Yes.,yes
+696,A laptop screen.,A laptop screen.,The text does not provide information about a cat's picture.,Laptop screen.,computer
+697,Blue,Brown,The text does not provide information about the color of the horse.,Brown,brown
+698,Desktop computer.,MacBook Pro,The text does not provide information about a cat or a computer.,MacBook Pro,laptop
+699,Bedroom,Bedroom,This question cannot be answered with the given text.,Bedroom,bedroom
+700,Yes.,No.,Not applicable.,I don't know.,no
+701,Yes.,No.,The text does not provide information about a meal.,No.,no
+702,On the burger.,On the side of the plate.,The text does not provide this information.,On the side of the plate.,side
+703,Yes.,No.,The text does not provide information about people's hair color.,No.,yes
+704,Red,Blue.,The text does not provide information about the color of a round sign.,Blue,blue
+705,Hotel room,Hotel room,Lambertville,Bedroom.,bedroom
+706,No.,Yes.,No.,Yes.,yes
+707,Three.,Two.,The text does not provide information about the number of people in the advertisement on the front of the bus.,Two,2
+708,Painting a mural.,Skateboarding.,Restoring a mill.,Skateboarding trick.,skateboarding
+709,Three.,One window.,The text does not provide information about the number of windows on the tower.,One.,1
+710,No.,Yes.,Yes.,Yes.,yes
+711,No.,Yes.,No,Yes.,yes
+712,Yes.,No.,The text does not mention any animals.,No.,no
+713,Blue,Green,The text does not provide information about the color of the canopy.,Green,green
+714,Desert and sand dunes.,Body of water and distant land.,The text does not provide information about geographical features.,"Water body, land, and trees.",ocean
+715,Sitting,Yawning.,Restoration.,Yawning,yawning
+716,Bathroom,Kitchen,The question is not applicable to the text provided.,Kitchen.,kitchen
+717,One.,Two.,The text does not provide information about any picture or towels.,Two.,2
+718,Yes.,Yes.,No.,Yes.,yes
+719,Yes.,No.,Not enough information.,No.,no
+720,Red,Blue,The text does not provide information about the color of the man's jacket.,Blue,blue
+721,Thanksgiving,The text does not specify a holiday.,The text does not provide information about a holiday or poultry preparation.,Thanksgiving,thanksgiving
+722,Helping,Not helping.,The text does not provide information to answer the question.,I don't know.,no
+723,The text does not mention anyone wearing white socks.,A man.,Madonna,The person in the foreground.,man
+724,Unknown,Unknown,No.,Yes.,yes
+725,No.,Yes.,Not applicable.,Yes.,yes
+726,Unknown,No.,The text does not provide information about bags or their materials.,No.,yes
+727,A blue blanket.,Green grass,The text does not provide information about a dog or what it is laying on.,Grass and leaves.,grass
+728,Green,Purple,The text does not provide information about the color of the hat.,Purple,purple
+729,Blue,Red,Blue,Red,red
+730,No.,Yes.,The text does not provide information about a room being empty.,Yes.,yes
+731,Red,Blue,Unknown,Blue,blue
+732,Yes.,No.,The text does not provide information about a fridge.,No.,no
+733,Three.,Two.,The text does not provide information about lamp shades.,Two,2
+734,Yes.,Yes.,Unknown,Yes.,yes
+735,No.,Yes.,The text does not provide this information.,Yes.,yes
+736,Yes.,No.,No.,No.,no
+737,Yes.,No.,The text does not provide information about people next to a building.,No.,no
+738,The text does not mention anything yellow in the corner.,Flowers,The text does not provide information about something yellow in the corner.,Flowers,flowers
+739,Yes.,No.,No.,No.,no
+740,No.,Yes.,No.,Yes.,yes
+741,Unclear.,No.,No.,No.,no
+742,Playing with colorful beach balls.,Drinking and cooling off.,The text does not provide information about elephants in the water.,Drinking and walking.,drinking
+743,Three.,Two.,The text does not provide information about the number of benches in the image.,Two.,2
+744,No.,Yes.,No.,Yes.,no
+745,Reading a book.,Skateboarding.,The text does not provide information about a boy or his actions.,Skateboarding.,skateboarding
+746,Yes.,No.,The text does not provide information about a woman wearing a dress.,No.,no
+747,No.,Yes.,The question seems to be unrelated to the provided text. Please provide the relevant information or context for the question.,Yes.,yes
+748,On a metal table.,The text does not mention a plate with a dessert.,The text does not provide information about a plate with a dessert.,In the background on the left.,table
+749,Unknown,Yes.,The text does not provide enough information to determine if there are kids in view.,Yes.,yes
+750,MISSION,MISSION,<unk>,Mission Cycling,mission
+751,One,The exact number is not visible.,The text does not provide information about the number of spokes on a car rim.,Five.,7
+752,A painting of a landscape with mountains and a river.,Two people visible on the television screen.,The text does not provide information about who is on the mirror.,I don't know who they are.,chris matthews
+753,The pitcher is not holding himself; he is holding a blue baseball.,For comfort or focus.,The text does not provide information related to a pitcher holding himself.,Adjusting his uniform.,signal
+754,By tucking them into his socks.,By rolling up the cuffs.,The text does not provide information about a skater or how he is keeping his jeans out of his way.,Cuffed at the bottom.,cuff
+755,Blue,Red,The text does not provide information about the color of the umbrella.,Red,red
+756,Green,Blue,Blue,Blue,blue
+757,No.,Yes.,The text does not provide information about car lights.,Yes.,no
+758,Yes.,No.,No.,No.,no
+759,Yes.,Uncertain.,Uncertain,I can't tell.,no
+760,Yes.,No.,The text does not provide information about seating arrangements.,No.,no
+761,Yes.,No.,The text does not provide information about window blinds.,Yes.,no
+762,Red halter.,A blue halter.,The text does not provide information about anything being attached to a horse.,A halter and lead rope.,rope
+763,A red cap.,A blue helmet.,The text does not provide information about what he is wearing on his head.,Catcher's helmet.,helmet
+764,A stuffed animal.,A stuffed animal.,The text does not provide information about what the girl is holding.,A stuffed animal.,bear
+765,Blue.,Brown.,Not mentioned.,Brown,brown
+766,Carrot,Broccoli,The text does not provide information about any vegetable being eaten.,Broccoli,broccoli
+767,Yes.,No.,No.,No.,no
+768,Two.,One sink.,The text does not provide information about the number of sinks in the bathroom.,One.,1
+769,Yes.,No.,The text does not provide information about zebras.,No.,yes
+770,No.,Yes.,The text does not provide information about a girl's phone.,Yes.,yes
+771,Basketball,Soccer,The text does not specify a game.,Soccer,soccer
+772,Bookshelf.,Vertical pipe.,The text does not provide information about what is next to the door on the left that is black.,A vertical black pipe.,pipe
+773,"Two sandwiches filled with lettuce, cheese, and ham.","Two hot dogs topped with onions, tomatoes, and sauerkraut.",The text does not provide information about what is under the aluminum foil.,Hot dogs,table
+774,Los Angeles,New York City,The text does not provide information about a city or a cop car.,New York City.,new york
+775,Taylor Ave,None,Tallgrass Prairie,Third Ave,none
+776,0,Two.,The text does not provide information about animals in a picture.,Four.,2
+777,Glass,Brick,The text does not provide information about what the building is made of.,Brick,brick
+778,Three.,One.,The text does not provide information about the number of women in the room.,One.,1
+779,Bedroom,Bathroom,The text does not specify a type of room.,Bathroom,bathroom
+780,Blue and white checkered.,Red and white checkered.,The text does not provide information about the pattern of the tablecloth.,Checkered.,checkered
+781,Yes.,No.,The text does not provide information about a picture or a chair.,No.,no
+782,Birds,Fish,The text does not provide information about the family's pets.,Fish,fish
+783,Cake,Pizza,Not applicable.,Pizza,pizza
+784,No.,Yes.,No.,Yes.,yes
+785,Yes.,No.,No.,No.,no
+786,No.,Unknown,The text does not provide information to answer the question.,I don't know.,yes
+787,The text suggests she moves around easily.,She is sitting in a chair holding a stuffed animal.,The text does not provide information about a woman or her mobility.,"She is holding a stuffed animal, which might suggest limited mobility.",wheelchair
+788,Nothing unusual.,It is placed behind a chain-link fence.,The question seems to be unrelated to the provided text.,The stop sign is placed behind a fence.,behind fence
+789,In a busy city street.,On a path next to some greenery and a corrugated metal wall.,The text does not provide information about where bikes are parked.,On a sidewalk.,street
+790,Blue,Red,The text does not provide information about the color of the bag.,Red,red
+791,Yes.,Unknown,The text does not provide information to answer the question.,Yes.,no
+792,Blue pans.,Copper pans.,The text does not provide information about pans hanging on the wall.,Copper pans.,skillets
+793,Bright blue.,Pink,The text does not provide information about the color of the umbrella.,Pink,pink
+794,Yes.,No.,No.,No.,no
+795,Yes.,No.,No.,No.,no
+796,Yes.,No.,The text does not provide information to determine if it is safe to cross the road.,No.,yes
+797,Blue burner.,None,The text does not provide information about a burner being visibly hot.,None.,none
+798,At a colorful ball hanging from a tree.,Into a metal bucket.,The text does not provide information about a giraffe or its location.,Into a bucket.,down
+799,No.,Yes.,The text does not provide information about the hair length of any people.,Yes.,yes
+800,One meal.,The text does not specify a number of meals.,The text does not provide information about meals on the table.,Four.,1
+801,Away from it.,Near the camera.,The text does not provide information about a train.,Near the camera.,away
+802,Yes.,No.,No.,No.,no
+803,No.,Yes.,Not applicable.,Yes.,yes
+804,"Blueberries, strawberries, raspberries.","Roasted garlic, cherry tomatoes, cloves of garlic.",The text does not provide information about items in a pan.,Garlic and cherry tomatoes.,strawberries
+805,Socially drinking.,Taste testing.,The text does not provide information about wine tasting or socially drinking.,Taste testing.,socially drinking
+806,On a red wall.,On a white barrier.,The text does not provide information about the Thrasher logo.,On the white barrier.,on barrier
+807,No.,Yes.,Yes.,No.,no
+808,Blue,White,The text does not provide information about the color of the bed sheet.,White,white
+809,A red surfboard.,A surfboard.,The text does not provide information about what is in the man's right hand.,A surfboard leash.,shoe
+810,No.,Yes.,No.,Yes.,yes
+811,Three.,One clock.,The text does not mention any clocks.,Two.,2
+812,A red hat.,A blue turban.,The text does not provide information about what is on the man's head.,A turban.,hair
+813,Blue and white.,Green and white.,The text does not provide information about the colors on the plane.,"Green, white, blue, gold.",green and white
+814,Five,Three.,The text does not provide information about measuring cups.,Three,2
+815,No.,Yes.,The text does not provide information about trees or their leaves.,Yes.,yes
+816,Yes.,No.,No.,No.,no
+817,Blue,Black,The text does not provide information about the color of the wall behind the bear.,Black,black
+818,Red,Blue,The text does not provide information about the color of the curtains.,Beige,yellow
+819,A large blue flag associated with environmental awareness.,Rainbow flag,The text does not provide information about a flag on a bus.,Pride flag,rainbow
+820,No.,Yes.,The text does not provide information about people or their clothing.,Yes.,yes
+821,GHTR,FMKQ,RAAF,FMKQ,fmk
+822,New York street vendor,Portillo's,The United States,Portillo's,portillo's
+823,Bicycle,Motorcycle,No vehicle mentioned.,Motorcycle,motorcycle
+824,Unknown,Unknown,The text does not mention a bear.,I don't know.,male
+825,Grass court.,Hard court,The text does not provide information about a tennis court surface.,Hard court.,artificial
+826,Five.,Two.,The text does not provide information about a photo or the number of people in it.,Two.,2
+827,Two.,Four.,Four.,Six.,6
+828,The text does not specify the gender of the person playing frisbee.,The text does not specify the gender of the person.,No.,No.,yes
+829,No.,Yes.,The text does not provide information about the weather.,Yes.,yes
+830,Metallic material,Velvety material.,The text does not provide information about a red pillow.,Velvet,velvet
+831,Green,Blue,The text does not provide information about the color of the big suitcase.,Black,black
+832,Unknown,Yes.,The text does not provide information about a picture.,Yes.,yes
+833,A wooden blind with horizontal slats.,Curtain with a floral pattern.,The text does not provide information about what is covering the window.,Curtains,curtain
+834,Red tiles.,Blue tiles.,The text does not provide information about a design or what it is made out of.,Stone and metal.,brick
+835,A blue painting.,Mirror,The text does not provide information about what is on the wall next to the toilet.,A damaged mirror.,bar
+836,Yes.,No.,Not applicable.,No.,no
+837,Away from the camera.,Forward,The text does not provide information about zebras.,Towards the camera.,forward
+838,Green,Blue,The text does not provide information about the color of a traffic sign.,Red,red
+839,Yes.,No.,Unknown,No.,no
+840,Yes.,Yes.,No.,Yes.,yes
+841,Red flag,A blue sign.,Battle honours,A loudspeaker.,wire
+842,In a red container.,In a blue container.,The objects are presented in relation to their positions around the Great Plaza.,In a bento box.,neatly
+843,Inside of a dollhouse.,To scale.,The text does not provide information to answer the question.,Inside of a dollhouse.,dollhouse
+844,None,Prosciutto,The text does not provide information about pizza or any type of meat on it.,Prosciutto,bacon
+845,Taller than the buildings.,Shorter than the buildings.,Unknown.,The bus is shorter than the buildings.,high
+846,Yes.,No.,Unknown.,No.,no
+847,Yes.,No.,The text does not provide information about a skateboarder.,Yes.,no
+848,No.,"The text does not provide enough information to determine if the photo manipulation is ""nauseating"" or ""tacky.""",No.,Yes.,yes
+849,No.,Yes.,The text does not provide information about sheep being shorn.,Yes.,yes
+850,Palm tree.,The type of tree is not specified.,The text does not provide information about a tree or a man standing near a tree.,Maple tree.,oak
+851,Yes.,Yes.,The text does not provide information about pillows.,No.,no
+852,Yes.,No.,No.,No.,no
+853,The text does not specify a direction.,The text does not specify a direction.,The text does not provide any direction for joggers or people on foot.,Left,left
+854,No.,Yes.,The text does not provide information to answer the question.,Yes.,yes
+855,A brightly lit park.,Skatepark.,A military battlefield.,Indoor skate park.,garage
+856,Yes.,No.,The text does not provide information about a baby's hair.,No.,no
+857,Paint horse,Pinto horse,The text does not provide information about a horse.,Appaloosa,appaloosa
+858,A dense green forest with tall trees.,A clear blue sky with some structural elements.,The capture of a prisoner.,A structure with stairs.,stairs
+859,Two.,One.,The text does not provide information about the number of kids.,One.,1
+860,Wood,Metal,The text does not specify what the fence is made of.,Metal,metal
+861,A red donut weight.,A blue donut weight.,The text does not provide information about a bat.,A doughnut (bat weight).,weight
+862,The text does not mention a black car.,The text does not mention a black car.,The text does not provide information about a black car's license plate number.,5CCD082,5ccd082
+863,The text does not specify any green things on the plate.,Broccoli,Gex,Broccoli,broccoli
+864,No.,Yes.,The text does not provide information about the crowd or the place being crowded.,Yes.,yes
+865,The person wearing a red shirt.,The person wearing a blue shirt.,The text does not provide information about anyone on a bike.,I don't know who is on the bike.,man
+866,Yes.,No.,The text does not provide information to answer the question.,No.,no
+867,Unknown,Unknown,The text does not provide information about a girl or whether she is a model.,I don't know.,no
+868,Yes.,No.,No.,I don't know.,no
+869,One.,Two.,0,Two.,2
+870,No.,Yes.,No,Yes.,yes
+871,Yes.,No.,Not applicable.,No.,no
+872,Yes.,No.,No.,No.,no
+873,Green barrels.,Blue barrels.,The text does not provide information about green or blue barrels.,Green,green
+874,A white flag.,A white storage box.,The text does not provide information about a motorcyclist or a white thing behind them.,Yamaha pannier.,saddle bag
+875,Yes.,No.,No.,No.,no
+876,Snowboard,Snowboard,The text does not provide information about what object the girl will be riding.,Snowboard,snowboard
+877,On the left side of the image.,On the left side of the image.,The text does not mention spray bottles.,On the left side of the image.,floor
+878,Yes.,No.,The text does not provide information about a baby.,No.,no
+879,No.,Yes.,The text does not provide information to determine the time of day.,Yes.,no
+880,"Blueberries, strawberry",Green grapes and a strawberry.,The text does not provide information about a fruit touching a yellow bird.,Strawberry,grapes
+881,Yes.,No.,No.,No.,no
+882,Yes.,No.,The text does not provide information about a person running towards the camera.,No.,no
+883,Bookstore,Phone store.,Grocery store.,Clothing store.,phone
+884,Yes.,No.,Unknown,No.,no
+885,A tennis racket.,A baseball bat.,The text does not provide information about a man swinging anything.,A baseball bat.,bat
+886,No.,Yes.,No.,Yes.,yes
+887,A red hair accessory.,A blue hair accessory.,The text does not provide this information.,A hair clip.,clip
+888,Yes.,No.,The text does not provide information to answer the question.,Yes.,no
+889,Yes.,No.,The text does not provide information about bus accessibility.,No.,no
+890,No.,No.,No.,No.,no
+891,No.,Yes.,The text does not provide information to answer this question.,Yes.,no
+892,One,One.,The text does not provide information about the number of scarves.,Five.,6
+893,No.,No.,Unknown,Yes.,yes
+894,Italy,France,United Kingdom,France,france
+895,Real.,Model,Real,Model.,model
+896,Summer,Winter,The text does not provide information about the season.,Winter.,winter
+897,Yes.,No.,The text does not provide information about a boy or his state of being asleep.,No.,no
+898,No.,Yes.,Not mentioned.,Yes.,yes
+899,The brown shadow is not mentioned in the text.,The brown shadow is not mentioned in the text.,The text does not provide information about a brown shadow under a horse's mouth.,A halter.,tongue
+900,Joan's Kitchen,Mad Men,The text is not from a TV show.,Mad Men,joan's kitchen
+901,No.,Yes.,The text does not provide information about a cat and dog interacting.,Yes.,no
+902,A red armband.,Armband,The text does not provide information about a black thing on a man's bicep.,An armband.,shirt
+903,No.,Yes.,The text does not provide this information.,Yes.,yes
+904,No.,Yes.,No.,Yes.,yes
+905,A blue book.,A black cat wrapped in a green towel.,The text does not provide information about what is in the woman's hands.,A phone and a cat wrapped in a towel.,cat
+906,Dolphin,Owl,The text does not provide information about a vase or an animal depicted on it.,Owl,owl
+907,Two players.,Four players.,The text does not provide information about the number of players in the picture.,Five.,4
+908,No.,Yes.,No.,Yes.,yes
+909,Helmet,A hat.,The text does not provide information about what is on the man's head.,A hat.,hat
+910,Unknown,Yes.,Unknown,Yes.,yes
+911,A person.,A person.,Jasaw Chan K'awiil I,I don't know.,surfer
+912,Street names or directions.,Street names or directions.,The text does not provide information about what the signs say.,POST,post
+913,"A stack of books, a lamp, and a plant.","A laptop, speakers, and a coffee machine.",The text does not provide information about what is on the desk.,"Laptop, speakers, coffee maker, chair.",laptop
+914,Yes.,No.,Unknown,Yes.,yes
+915,Red,Blue.,White,"Red, yellow, blue.",green
+916,Perched.,Flying.,The text does not provide information about a bird or its actions.,Flying,flying
+917,Yes.,No.,The text does not provide information about a dog wearing a hat.,No.,no
+918,No.,Yes.,The text does not provide information about a young man wearing roller skates.,Yes.,no
+919,The text does not provide information about white designs on the laptop or pink pot holder.,No.,The text does not provide information about white designs on a laptop or a pink pot holder.,Yes.,no
+920,No.,Yes.,The text does not provide information to answer this question.,Yes.,yes
+921,Yes.,No.,The text does not provide information about fruit on a plate.,No.,no
+922,Reading a book.,Performing a jump on a jet ski.,Trey Burke was named a finalist for the Bob Cousy Award.,Jet skiing.,jet skiing
+923,Yes.,No.,The question is unrelated to the text provided.,No.,yes
+924,Yes.,No.,The text does not provide information about men or collars.,No.,no
+925,Solar panels,Chimney,<unk>,Chimney,chimney
+926,Reflection of the surrounding sandy desert landscape.,Reflection of the surrounding lush green trees and vegetation.,Not applicable.,Algae and vegetation.,algae
+927,Apple,Orange,Gamelan,Orange,orange
+928,Red wine.,Blue liquid.,The text does not provide information about what is in the dark bottles.,Wine,wine
+929,Left.,Right,The text does not provide information about the direction a sign is pointing.,Right,right
+930,Los Angeles,New York,The text does not provide information about a train or its destination.,New York,new york
+931,No.,Yes.,No.,Yes.,yes
+932,Yes.,No.,No.,No.,no
+933,"Short, curly hair.",Dreadlocks,The text does not provide information about Walter Afanasieff's hairstyle.,Dreadlocks,dreadlocks
+934,Yes.,Uncertain.,No.,No.,no
+935,Three.,Two.,The text does not provide information about any picture or bears.,Two.,2
+936,No.,Yes.,The text does not provide enough information to determine if the people are happy.,Yes.,yes
+937,A red bicycle.,A blue bicycle.,The text does not provide information about a man in a red and white hat.,Bicycle,bicycle
+938,On a table in the center of a room.,On the wall near a window.,The text does not provide information about the location of a vase.,On the wall.,on wall
+939,A bustling city skyline.,Snow-capped mountains.,"Bond's captivity, torture, and suspicion of being set up by a double agent.",Snow-capped mountains.,mountains
+940,Japan Airlines (JAL) aircraft,Japan Airlines (JAL) aircraft,The text does not provide information about a type of plane.,Boeing 777,passenger
+941,Yes.,Yes.,The text does not provide enough information to answer this question.,Yes.,yes
+942,Uncertain.,Uncertain,The text does not provide enough information to determine if he is going to fall.,Uncertain.,yes
+943,Blue and white.,Black and white.,The text does not provide information about the color of the cat.,Black and white.,black and white
+944,No.,Yes.,Not applicable.,Yes.,no
+945,Green,Red,The text does not provide information about the color of the front of the train.,Red,red
+946,No.,Yes.,Unknown,Yes.,yes
+947,Nothing needs to be removed before eating.,The outer skin of the red onion.,This question does not relate to the provided text.,Broccoli stem.,skin
+948,Nothing is described as green in the image.,Plants,The text does not provide information about an image or anything green.,Plants,plants
+949,5678,1843,The text does not provide a number related to a train.,1843,1843
+950,No.,Yes.,Not applicable.,Yes.,yes
+951,No.,Yes.,The text does not provide information to answer this question.,Yes.,yes
+952,The text does not provide enough information to determine the time.,The text does not provide the specific time shown on the clock.,The text does not provide information about the current time.,10:10,3:30
+953,Yes.,No.,No.,Yes.,no
+954,The person sitting on a bench in the background.,The person performing a skateboard trick on a ramp.,The text does not provide information about a person wearing a yellow shirt.,The person skateboarding.,boy
+955,One,A group of elephants.,The text does not provide information about elephants.,Nine.,1
+956,Blue sauce.,Caramel-colored sauce.,The text does not provide information about a sauce on a plate.,Caramel sauce.,caramel
+957,Yes.,No.,Yes.,No.,no
+958,Ceramic,Glass,William Button 1819 @-@ 37,Glass,glass
+959,Yes.,No.,Unknown,Yes.,yes
+960,Uncertain,Uncertain,No.,No.,no
+961,Two.,Four.,Four.,Four,4
+962,No.,Yes.,No.,Yes.,yes
+963,Several,Zero.,The text does not provide information about watches.,One.,2
+964,Blue tiles.,White plaster.,The text does not provide information about what the wall is made of.,Drywall,plaster
+965,No.,No.,The text does not provide information about decapitation.,No.,no
+966,A small book.,A pair of scissors.,The text does not provide information about what the man is holding.,A straight razor.,scissors
+967,Blue and yellow.,"Red, white, and black.",The text does not provide information about the color of the sign.,"Red, white, and black.",white
+968,Yes.,No.,The text does not provide information about a sandwich.,No.,no
+969,No.,Yes.,No.,Yes.,yes
+970,A red object.,A blue object.,The text does not specify any object being carried by a person.,Frisbee,frisbee
+971,BLUE,CHESTER,The text does not provide information about what is written on the bench.,CHESTER,chester
+972,Uncertain,No.,No.,No.,no
+973,No.,No.,The text does not provide information about a young man flying.,No.,no
+974,Basketball,Tennis,Unknown,Tennis,tennis
+975,Yes.,No.,No.,No.,no
+976,Car,Horse,The text does not provide information about an animal pulling a cart.,Horse,horse
+977,Yes.,No.,No.,No.,no
+978,California,Illinois,Colorado,California,illinois
+979,Blue,White,The text does not provide information about the color of the plate.,White,white
+980,No.,Yes.,Not applicable.,Yes.,yes
+981,Spinach,Broccoli,da,Broccoli,broccoli
+982,Red,Blue,The text does not provide information about the color of the sign.,White,white
+983,Red bottles.,Blue bottles.,The text does not provide information about bottles lining a shelf.,Liquor bottles.,liquor
+984,The text does not specify the color of the cat.,The text does not specify the color of the cat.,The text does not provide information about the color of the cat.,Tabby (brown and black).,brown
+985,Yes.,No.,The text does not provide information about footprints in the sand.,Yes.,no
+986,Several balloons.,Several balloons.,The text does not provide information about balloons.,Seven,7
+987,A blue backpack.,Skateboard,The ball.,A skateboard.,skateboard
+988,No.,Yes.,No.,Yes.,yes
+989,The air conditioner is keeping the room warm.,Fire burning in the fireplace.,The text does not provide information on how the man is keeping the room warm.,Fireplace.,fire
+990,Two.,One.,The text does not provide information about the number of TVs in the picture.,One.,1
+991,Unknown,Yes.,Unknown,Yes.,yes
+992,Unknown,Yes.,No.,Yes.,yes
+993,Yes.,No.,The text does not provide information about a skateboarder or safety gear.,No.,no
+994,A red object.,A blue object.,The text does not provide information about anything sticking up from a fire hydrant.,A red object.,nothing
+995,Red,Blue,The text does not provide information about the color of the boy's jacket.,Green,green
