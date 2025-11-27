@@ -31,7 +31,7 @@ experimentos do artigo selecionado.
     ├── sanity_check.ipynb          # Verificação do impacto das descrições geradas para o problema
     ├── treatment_and_text_generation.ipynb  # Geração das descrições corretas, corrompidas e irrelevantes 
 
-*Como as imagens e os .jsons utilizados nestes experimentos eram muito grandes, eles podem ser acessados através deste link:
+*Como as imagens e os .jsons utilizados nestes experimentos eram muito grandes, eles podem ser acessados através deste link e incluidas no projeto:
 https://drive.google.com/drive/folders/1Zwx3S_u_REeGAXZWVOQOzp2M2QPkDhdb?usp=drive_link
 
 ## Principais Dependências
