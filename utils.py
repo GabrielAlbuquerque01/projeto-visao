@@ -1,6 +1,7 @@
 import json
 import base64
-
+import re
+import string
 
 def get_image_id(image_name : str):
 
@@ -34,9 +35,45 @@ def load_json(path_json : str):
     return json_loaded
 
 
-def clean_vqa_answer(answer: str):
+NUMBER_MAP = {
+    "zero": "0", "one": "1", "two": "2", "three": "3", "four": "4",
+    "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9",
+    "ten": "10"
+}
 
-    pass
+CONTRACTIONS = {
+    "dont": "don't", "doesnt": "doesn't", "cant": "can't",
+    "couldnt": "couldn't", "shouldnt": "shouldn't",
+    "wouldnt": "wouldn't", "isnt": "isn't", "arent": "aren't",
+    "wasnt": "wasn't", "werent": "weren't",
+    "im": "i'm", "ive": "i've", "ill": "i'll",
+    "youre": "you're", "youve": "you've", "youll": "you'll",
+    "theyre": "they're", "weve": "we've", "were": "we're"
+}
+
+ARTICLES = {"a", "an", "the"}
+
+def normalize_answer_vqa(ans: str) -> str:
+    if not isinstance(ans, str):
+        return ans
+
+    ans = ans.lower().strip()
+    ans = re.sub(r'(?<!\d)\.(?!\d)', '', ans)
+    ans = " ".join(NUMBER_MAP.get(w, w) for w in ans.split())
+    ans = " ".join(w for w in ans.split() if w not in ARTICLES)
+
+    for wrong, right in CONTRACTIONS.items():
+        ans = ans.replace(wrong, right)
+
+    ans = re.sub(r'(?<!\d),(?!\d)', ' ', ans)
+
+    keep = "' :.,"
+    to_remove = ''.join(ch for ch in string.punctuation if ch not in keep)
+    ans = re.sub(f"[{re.escape(to_remove)}]", " ", ans)
+
+    ans = re.sub(r"\s+", " ", ans).strip()
+
+    return ans
 
 
 

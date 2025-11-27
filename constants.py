@@ -1,6 +1,7 @@
 PATH_JSON_QUESTIONS = r'jsons\v2_OpenEnded_mscoco_val2014_questions.json'
 PATH_JSON_ANNOTATIONS = r'jsons\v2_mscoco_val2014_annotations.json'
-OPENAI_KEY = ''
+OPENAI_KEY = 'CHAVE AQUI'
+
 PROMPT_CONSTRUCAO_TEXTO = '''Given the image, the question and the answer, your task is to:
 1. Generate an accurate 〈Description 1〉 which can be used for
 answering the question correctly without using the image.
